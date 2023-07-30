@@ -1,4 +1,4 @@
-package HelloWorld;
+package com.example.perm2.HelloWorld;
 
 import java.sql.SQLOutput;
 

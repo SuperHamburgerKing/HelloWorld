@@ -1,4 +1,4 @@
-package HelloWorld;
+package com.example.perm2.HelloWorld;
 
 public class Hello {
     public static void main(String[] args) {
